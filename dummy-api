@@ -1,0 +1,146 @@
+[
+  {
+    "region": "Global",
+    "category": "Natural gas w/o CCUS",
+    "year": 2025,
+    "min": 0.9,
+    "max": 4.0,
+    "color": "#277DA1"
+  },
+  {
+    "region": "Global",
+    "category": "Natural gas w/o CCUS",
+    "year": 2030,
+    "min": 0.8,
+    "max": 3.0,
+    "color": "#277DA1"
+  },
+  {
+    "region": "Global",
+    "category": "Natural gas w CCUS",
+    "year": 2025,
+    "min": 1.1,
+    "max": 4.2,
+    "color": "#577590"
+  },
+  {
+    "region": "Global",
+    "category": "Natural gas w CCUS",
+    "year": 2030,
+    "min": 1.0,
+    "max": 3.2,
+    "color": "#577590"
+  },
+  {
+    "region": "Global",
+    "category": "Wind Onshore",
+    "year": 2025,
+    "min": 2.1,
+    "max": 6.0,
+    "color": "#F9C74F"
+  },
+  {
+    "region": "Global",
+    "category": "Wind Onshore",
+    "year": 2030,
+    "min": 1.9,
+    "max": 5.0,
+    "color": "#F9C74F"
+  },
+  {
+    "region": "Latin America",
+    "category": "Natural gas w/o CCUS",
+    "year": 2025,
+    "min": 1.0,
+    "max": 5.0,
+    "color": "#277DA1"
+  },
+  {
+    "region": "Latin America",
+    "category": "Natural gas w/o CCUS",
+    "year": 2030,
+    "min": 1.0,
+    "max": 5.0,
+    "color": "#277DA1"
+  },
+  {
+    "region": "Latin America",
+    "category": "Natural gas w CCUS",
+    "year": 2025,
+    "min": 1.5,
+    "max": 6.0,
+    "color": "#577590"
+  },
+  {
+    "region": "Latin America",
+    "category": "Natural gas w CCUS",
+    "year": 2030,
+    "min": 2.0,
+    "max": 4.0,
+    "color": "#577590"
+  },
+  {
+    "region": "Latin America",
+    "category": "Wind Onshore",
+    "year": 2025,
+    "min": 2.5,
+    "max": 6.5,
+    "color": "#F9C74F"
+  },
+  {
+    "region": "Latin America",
+    "category": "Wind Onshore",
+    "year": 2030,
+    "min": 2.0,
+    "max": 5.5,
+    "color": "#F9C74F"
+  },
+  {
+    "region": "Japan",
+    "category": "Natural gas w/o CCUS",
+    "year": 2025,
+    "min": 2.0,
+    "max": 6.0,
+    "color": "#277DA1"
+  },
+  {
+    "region": "Japan",
+    "category": "Natural gas w/o CCUS",
+    "year": 2030,
+    "min": 2.0,
+    "max": 5.0,
+    "color": "#277DA1"
+  },
+  {
+    "region": "Japan",
+    "category": "Natural gas w CCUS",
+    "year": 2025,
+    "min": 2.0,
+    "max": 7.0,
+    "color": "#577590"
+  },
+  {
+    "region": "Japan",
+    "category": "Natural gas w CCUS",
+    "year": 2030,
+    "min": 3.0,
+    "max": 6.0,
+    "color": "#577590"
+  },
+  {
+    "region": "Japan",
+    "category": "Wind Onshore",
+    "year": 2025,
+    "min": 3.0,
+    "max": 7.0,
+    "color": "#F9C74F"
+  },
+  {
+    "region": "Japan",
+    "category": "Wind Onshore",
+    "year": 2030,
+    "min": 2.5,
+    "max": 6.0,
+    "color": "#F9C74F"
+  }
+]
