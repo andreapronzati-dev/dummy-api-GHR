@@ -149,7 +149,7 @@
     "year": 2025,
     "min": 1.5,
     "max": 5.0,
-    "color": "#F9C74F"
+    "color": "#e98cae"
   },
  {
     "region": "Global",
@@ -157,6 +157,6 @@
     "year": 2030,
     "min": 1.5,
     "max": 5.0,
-    "color": "#F9C74F"
+    "color": "#e98cae"
   }
 ]
