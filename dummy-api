@@ -142,5 +142,21 @@
     "min": 2.5,
     "max": 6.0,
     "color": "#F9C74F"
+  },
+ {
+    "region": "Japan",
+    "category": "Wind Offshore",
+    "year": 2025,
+    "min": 1.5,
+    "max": 5.0,
+    "color": "#F9C74F"
+  },
+ {
+    "region": "Japan",
+    "category": "Wind Offshore",
+    "year": 2030,
+    "min": 1.5,
+    "max": 5.0,
+    "color": "#F9C74F"
   }
 ]
